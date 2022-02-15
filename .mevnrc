@@ -2,7 +2,7 @@
   "name": "aus-honda",
   "template": "Default",
   "isConfigured": {
-    "client": false,
-    "server": false
+    "client": true,
+    "server": true
   }
 }
